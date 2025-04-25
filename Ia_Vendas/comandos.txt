@@ -1,0 +1,12 @@
+pip install streamlit
+
+pip install pymupdf
+
+Primeiro você baixa os dois acima para funcionar as bibliotecas e depois roda o streamlit
+
+streamlit run bayes.py
+
+
+
+
+
